@@ -9,7 +9,8 @@ The database contains information about customer: name, gender, address, marital
 Product Sales Dashboard is made with Cognos Analytics and contains information about:
 - Total quantity sold,
 - Total revenue,
-- Product line performancy by year. 
+- Product line performancy by year.
+
 Customer Loyalty Dashboard is made with Cognos Analytics and it contains the following charts:
 - Map with revenues and quantities sold by country and region,
 - Radial chart with the response to coupons (quantity sold) by sales departments,
